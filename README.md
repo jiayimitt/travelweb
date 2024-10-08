@@ -17,7 +17,10 @@ Check out the live version of the project [here](https://stupendous-bonbon-36ccb
 - **Interactive Map**: Users can interact with a map to explore different locations and read about unique travel spots.
 - **Responsive Design**: The site is designed to look great on any device, whether it's a phone, tablet, or desktop.
 - **Contact Form**: Users can easily get in touch to ask questions or request more information about a destination.Welcome
-  
+
+## To Explore More
+
+  Your destination is not just the Earth, but the entire universe.
 ![Explore Page](https://starwalk.space/gallery/images/milky-way-faq/1920x1080.jpg)
 
 
