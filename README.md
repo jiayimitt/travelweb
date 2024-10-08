@@ -21,6 +21,13 @@ Check out the live version of the project [here](https://stupendous-bonbon-36ccb
 - **Responsive Design**: The site is designed to look great on any device, whether it's a phone, tablet, or desktop.
 - **Contact Form**: Users can easily get in touch to ask questions or request more information about a destination.Welcome
 
+## Technologies Used
+
+- **HTML**: Structured the content of the website.
+- **CSS**: Styled the website and created a responsive layout.
+- **Google Maps API**: Integrated for the interactive map feature.
+- **GitHub Pages**: Hosted the live version of the website.
+- 
 ## To Explore More
 
   Your destination is not just the Earth, but the entire universe.
