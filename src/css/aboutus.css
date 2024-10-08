@@ -158,7 +158,7 @@ header {
 
 .bottom-right-button:hover {
     background-color: var(--app-blue-background); 
-    color: #0e0d0d;
+    color: var(--app-white1-color);
 }
 
 
@@ -279,19 +279,19 @@ header {
 }
 
 .make-travel-matter button {
-    padding: 10px 20px;
+    padding: 5px 20px;
     font-size: 15px;
     background-color: rgba(0, 0, 0, 0.1);
     color: rgb(231, 222, 222);
     border: 2px solid var(--app-white1-color);
     cursor: pointer;
-    border-radius: 10px;
+    border-radius: 30px;
     margin-top: 20px;
     transition: background-color 0.3s, color 0.3s;
 }
 
 .make-travel-matter button:hover {
-    background-color: var(--app-purple-color);
+    background-color: var(--app-blue-background);
     color: var(--app-white1-color);
 }
 
