@@ -1,4 +1,5 @@
-![]([https://starwalk.space/zh-Hans/news/milky-way-galaxy-all-you-need-to-know](https://starwalk.space/gallery/images/milky-way-faq/1920x1080.jpg))
+![Milky Way](https://starwalk.space/gallery/images/milky-way-faq/1920x1080.jpg)
+
 
 Hi there, I am Jiayi Nie, I am an automotive engineer with 15 years of R&D experience, and I am also a beginner in software development in Canada. After as an automotive engineer for 15 years, I think life should offer more possibilities. That’s why I decided to start fresh and pursue a new path. I’ve moved to Canada to begin my journey in software development.
 
