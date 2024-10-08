@@ -25,7 +25,6 @@ Check out the live version of the project [here](https://stupendous-bonbon-36ccb
 
 - **HTML**: Structured the content of the website.
 - **CSS**: Styled the website and created a responsive layout.
-- **Google Maps API**: Integrated for the interactive map feature.
 - **GitHub Pages**: Hosted the live version of the website.
 - 
 ## To Explore More
