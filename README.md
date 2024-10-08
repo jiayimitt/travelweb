@@ -1,6 +1,7 @@
 
 # Explore the World - Travel Website
-![Home Page](https://starwalk.space/gallery/images/milky-way-faq/1920x1080.jpg)
+![Welcome Page](https://as2.ftcdn.net/v2/jpg/03/41/47/73/1000_F_341477352_FPoRvWnWWqdzVFnIWn3on34gYWaSEX2K.jpg)
+
 
 ## Project Overview
 
@@ -17,9 +18,7 @@ Check out the live version of the project [here](https://stupendous-bonbon-36ccb
 - **Responsive Design**: The site is designed to look great on any device, whether it's a phone, tablet, or desktop.
 - **Contact Form**: Users can easily get in touch to ask questions or request more information about a destination.Welcome
   
-
-
-![Welcome Page](https://as2.ftcdn.net/v2/jpg/03/41/47/73/1000_F_341477352_FPoRvWnWWqdzVFnIWn3on34gYWaSEX2K.jpg)
+![Explore Page](https://starwalk.space/gallery/images/milky-way-faq/1920x1080.jpg)
 
 
 
